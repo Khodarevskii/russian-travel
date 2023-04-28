@@ -6,6 +6,12 @@
   line-height: 18px;
   letter-spacing: 0em;
   text-align: left;
+  color: white;
+  text-decoration: none;
+  transition: 0.8s;
+}
+.footer__link:hover{
+  opacity: 0.8;
 }
 .footer__link:last-child{
   padding: 0;
