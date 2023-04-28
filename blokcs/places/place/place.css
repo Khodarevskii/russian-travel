@@ -1,7 +1,7 @@
 .place{
   list-style: none;
-  margin: 0; 
-  padding: 0;  
+  margin: 0;
+  padding: 0;
   display: grid;
   width: 100%;
   row-gap: 48px;
@@ -20,7 +20,7 @@
   max-height: 116px;
 }
 
-@media (max-width:1024px){
+@media (max-width: 1024px){
   .place{
     column-gap: 32px;
   }
@@ -28,7 +28,7 @@
     padding: 0 0 90px 0;
   }
 }
-@media (max-width:768px){
+@media (max-width: 768px){
   .place{
     max-width: 720px;
   }
@@ -36,7 +36,7 @@
     margin: 73px 0;
   }
 }
-@media (max-width:710px){
+@media (max-width: 710px){
   .place{
     grid-template-columns: 1fr;
     row-gap: 32px;
