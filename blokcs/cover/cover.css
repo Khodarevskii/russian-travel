@@ -8,6 +8,8 @@
   justify-content: center;
   position: relative;
   margin: 0 0 92px 0;
+  color: white;
+  text-decoration: none;
 }
 .cover:hover .cover__overlay{
   background-color: rgba(42, 44, 47, 0.8);
