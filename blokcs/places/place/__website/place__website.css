@@ -4,7 +4,7 @@
   display: inline;
   align-self: end;
 }
-@media (max-width:710px){
+@media (max-width: 710px){
   .place__website{
     grid-row-start: 2;
     padding: 0 16px 0 16px;

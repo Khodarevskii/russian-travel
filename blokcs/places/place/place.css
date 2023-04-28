@@ -6,7 +6,7 @@
   width: 100%;
   row-gap: 48px;
   column-gap: 40px;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 460px 484px;
   box-sizing: border-box;
 }
 .place:nth-child(2n){
