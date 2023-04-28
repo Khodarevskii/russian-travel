@@ -1,6 +1,6 @@
 .cover{
   display: flex;
-  background:no-repeat url(/img/background.jpg) center;
+  background:no-repeat url(img/background.jpg) center;
   background-size: contain;
   flex-direction: column;
   min-height: 740px;
