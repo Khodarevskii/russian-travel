@@ -1,0 +1,11 @@
+.header{
+ display: flex;
+ justify-content: space-between;
+ padding: 28px 48px 0 48px;
+ margin:  0 0 54px;
+}
+@media (max-width: 500px){
+  .header{
+    padding: 16px 16px 48px;
+  }
+}

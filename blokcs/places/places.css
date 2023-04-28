@@ -1,0 +1,9 @@
+.palces{
+  max-width: 984px;
+  margin: 0 auto;
+}
+@media (max-width:768px){
+  .palces{
+    max-width: 720px;
+  }
+}
