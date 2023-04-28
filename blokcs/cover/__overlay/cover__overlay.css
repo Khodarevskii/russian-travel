@@ -2,7 +2,7 @@
   background-color: rgba(42, 44, 47, 0.3);
   height: 100%;
   width: 100%;
-  position:absolute;
+  position: absolute;
   z-index: 1;
   transition: 0.5s;
 }
