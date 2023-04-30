@@ -1,5 +1,5 @@
 .footer__item:nth-child(2n){
-  padding: 0 18px ;
+  padding: 0 18px;
 }
 @media (max-width: 670px){
   .footer__item:nth-child(2n){
