@@ -1,14 +1,19 @@
 .header__lang-link{
-  font-family: Inter;
   font-size: 24px;
   font-weight: 400;
-  line-height: 38px;
+  line-height: 40px;
   letter-spacing: 0em;
   color: white;
   padding: 0;
   text-decoration: none;
+  transition: 0.3s;
 }
-.header__lang-link:first-child{
-  margin: 0 15px 0 0px;
-  border-bottom: 2px white solid;
+.header__lang-link:hover{
+  opacity: 0.8;
+}
+@media (max-width:320px){
+  .header__lang-link{
+    font-size: 18px;
+    line-height: 34px;
+  }
 }

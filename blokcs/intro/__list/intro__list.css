@@ -2,15 +2,19 @@
   list-style: none;
   padding: 0;
   margin: 34px 0 92px 0;
-  font-family: Inter;
   font-size: 12px;
   font-weight: 400;
   line-height: 18px;
   letter-spacing: 0em;
   text-align: left;
 }
-@media (max-width:768px){
+@media (max-width: 768px){
   .intro__list{
     margin: 34px 0 88px 0;
+  }
+}
+@media (max-width: 320px){
+  .intro__list{
+    margin: 34px 0 64px 0;
   }
 }

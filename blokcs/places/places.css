@@ -1,9 +1,9 @@
-.palces{
-  max-width: 984px;
+.places{
   margin: 0 auto;
+  max-width: 984px;
 }
-@media (max-width:768px){
-  .palces{
-    max-width: 720px;
+@media (max-width:1024px){
+  .places{
+    max-width: 928px;
   }
 }

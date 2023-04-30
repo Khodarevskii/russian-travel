@@ -1,0 +1,17 @@
+.cover__link{
+  color: white;
+  text-decoration: none;
+}
+.cover__link::before{
+  content: '';
+  background: rgba(42, 44, 47, 0.3);
+  width: 100%;
+  top: 0;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  transition: 0.5s;
+}
+.cover__link:hover::before{
+  background: rgba(42, 44, 47, 0.8);
+}

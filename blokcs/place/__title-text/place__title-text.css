@@ -1,0 +1,24 @@
+.place__title-text{
+  margin: 0;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 104%;
+  display: inline;
+}
+@media (max-width: 950px){
+  .place__title-text{
+    font-size: 42px;
+    line-height: 110%;
+  }
+}
+@media (max-width: 710px){
+  .place__title-text{
+    margin: 0 0 0 16px;
+  }
+}
+@media (max-width: 330px){
+  .place__title-text{
+    font-size: 32px;
+    max-width: 288px;
+  }
+}

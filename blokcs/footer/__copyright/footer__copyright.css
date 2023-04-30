@@ -1,6 +1,5 @@
 .footer__copyright{
   margin: 0;
-  font-family: Inter;
   font-size: 14px;
   font-weight: 400;
   line-height: 16px;
@@ -10,5 +9,6 @@
 @media (max-width:670px){
   .footer__copyright{
     align-self: flex-start;
+    padding: 0 0 24px 0px;
   }
 }

@@ -3,9 +3,16 @@
   margin: 0 auto;
   padding: 92px 0 0 0;
 }
-@media (max-width: 990px){
+@media (max-width: 1024px){
+  .intro{
+    max-width: 690px;
+    margin: 0 0 0 48px;
+  }
+}
+@media (max-width: 768px){
   .intro{
     max-width: 720px;
+    margin: 0 0 0 24px;
   }
 }
 @media (max-width: 550px){
@@ -16,5 +23,6 @@
 @media (max-width: 320px){
   .intro{
     max-width: 288px;
+    margin: 0 16px;
   }
 }
