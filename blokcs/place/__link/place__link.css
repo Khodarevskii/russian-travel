@@ -8,6 +8,7 @@
   grid-column: 2;
   grid-row: 1;
   transition: 0.3s;
+  border-bottom: 2px white solid;
 }
 .place__link:hover{
   opacity: 0.8;

@@ -4,7 +4,7 @@
 @import url(../fonts/Inter/inter.css);
 @import url(../blokcs/header/__links/header__links.css);
 @import url(../blokcs/header/header.css);
-@import url(../blokcs/header/__lang-link/_border-bottom/header__lang-link_border-bottom.css);
+@import url(../blokcs/header/__lang-link/_border-bottom/header__lang-link_active.css);
 @import url(../blokcs/header/__lang-link/header__lang-link.css);
 @import url(../blokcs/header/__logo/header__logo.css);
 @import url(../blokcs/lead/__caption/lead__caption.css);
@@ -22,7 +22,6 @@
 @import url(../blokcs/photo-grid/__item/photo-grid__item.css);
 @import url(../blokcs/photo-grid/__list/photo-grid__list.css);
 @import url(../blokcs/places/places.css);
-@import url(../blokcs/place/__link/_border-bottom/place__link_border-bottom.css);
 @import url(../blokcs/place/place.css);
 @import url(../blokcs/place/__title-text/place__title-text.css);
 @import url(../blokcs/place/__image/place__image.css);
@@ -33,7 +32,6 @@
 @import url(../blokcs/place/__url-heading/place__url-heading.css);
 @import url(../blokcs/cover/cover.css);
 @import url(../blokcs/cover/__link/cover__link.css);
-@import url(../blokcs/cover/__overlay/cover__overlay.css);
 @import url(../blokcs/cover/__subtitle/cover__subtitle.css);
 @import url(../blokcs/footer/__item/footer__item.css);
 @import url(../blokcs/cover/__title/cover__title.css);
